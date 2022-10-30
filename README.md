@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shortsstatus710@gmail.com**
 
-- 📄 Know about my experiences [Hardware, Software, Programming Language.](Hardware, Software, Programming Language.)
+- 📄 Know about my experiences [Hardware, Software, Programming Language.]
 
 - ⚡ Fun fact **I am Joker!**
 
